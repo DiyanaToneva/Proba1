@@ -1,0 +1,4 @@
+C:\Users\STUDENTS-1212-14\Desktop\Дияна Тонева 9А\Увод в Програмирането\BoolAndChar\WorkingList\MaxCount\obj\Debug\net9.0\MaxCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENTS-1212-14\Desktop\Дияна Тонева 9А\Увод в Програмирането\BoolAndChar\WorkingList\MaxCount\obj\Debug\net9.0\MaxCount.AssemblyInfoInputs.cache
+C:\Users\STUDENTS-1212-14\Desktop\Дияна Тонева 9А\Увод в Програмирането\BoolAndChar\WorkingList\MaxCount\obj\Debug\net9.0\MaxCount.AssemblyInfo.cs
+C:\Users\STUDENTS-1212-14\Desktop\Дияна Тонева 9А\Увод в Програмирането\BoolAndChar\WorkingList\MaxCount\obj\Debug\net9.0\MaxCount.csproj.CoreCompileInputs.cache

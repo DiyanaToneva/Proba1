@@ -1,0 +1,14 @@
+C:\Users\STUDENTS-1212-14\Desktop\Дияна Тонева 9А\Увод в Програмирането\BoolAndChar\WorkingList\Find\bin\Debug\net9.0\Find.exe
+C:\Users\STUDENTS-1212-14\Desktop\Дияна Тонева 9А\Увод в Програмирането\BoolAndChar\WorkingList\Find\bin\Debug\net9.0\Find.deps.json
+C:\Users\STUDENTS-1212-14\Desktop\Дияна Тонева 9А\Увод в Програмирането\BoolAndChar\WorkingList\Find\bin\Debug\net9.0\Find.runtimeconfig.json
+C:\Users\STUDENTS-1212-14\Desktop\Дияна Тонева 9А\Увод в Програмирането\BoolAndChar\WorkingList\Find\bin\Debug\net9.0\Find.dll
+C:\Users\STUDENTS-1212-14\Desktop\Дияна Тонева 9А\Увод в Програмирането\BoolAndChar\WorkingList\Find\bin\Debug\net9.0\Find.pdb
+C:\Users\STUDENTS-1212-14\Desktop\Дияна Тонева 9А\Увод в Програмирането\BoolAndChar\WorkingList\Find\obj\Debug\net9.0\Find.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENTS-1212-14\Desktop\Дияна Тонева 9А\Увод в Програмирането\BoolAndChar\WorkingList\Find\obj\Debug\net9.0\Find.AssemblyInfoInputs.cache
+C:\Users\STUDENTS-1212-14\Desktop\Дияна Тонева 9А\Увод в Програмирането\BoolAndChar\WorkingList\Find\obj\Debug\net9.0\Find.AssemblyInfo.cs
+C:\Users\STUDENTS-1212-14\Desktop\Дияна Тонева 9А\Увод в Програмирането\BoolAndChar\WorkingList\Find\obj\Debug\net9.0\Find.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1212-14\Desktop\Дияна Тонева 9А\Увод в Програмирането\BoolAndChar\WorkingList\Find\obj\Debug\net9.0\Find.dll
+C:\Users\STUDENTS-1212-14\Desktop\Дияна Тонева 9А\Увод в Програмирането\BoolAndChar\WorkingList\Find\obj\Debug\net9.0\refint\Find.dll
+C:\Users\STUDENTS-1212-14\Desktop\Дияна Тонева 9А\Увод в Програмирането\BoolAndChar\WorkingList\Find\obj\Debug\net9.0\Find.pdb
+C:\Users\STUDENTS-1212-14\Desktop\Дияна Тонева 9А\Увод в Програмирането\BoolAndChar\WorkingList\Find\obj\Debug\net9.0\Find.genruntimeconfig.cache
+C:\Users\STUDENTS-1212-14\Desktop\Дияна Тонева 9А\Увод в Програмирането\BoolAndChar\WorkingList\Find\obj\Debug\net9.0\ref\Find.dll

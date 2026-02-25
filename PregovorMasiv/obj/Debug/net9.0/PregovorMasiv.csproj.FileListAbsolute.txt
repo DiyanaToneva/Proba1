@@ -1,0 +1,14 @@
+C:\Users\STUDENTS-1212-14\Desktop\Дияна Тонева 9А\Увод в Програмирането\BoolAndChar\WorkingList\PregovorMasiv\bin\Debug\net9.0\PregovorMasiv.exe
+C:\Users\STUDENTS-1212-14\Desktop\Дияна Тонева 9А\Увод в Програмирането\BoolAndChar\WorkingList\PregovorMasiv\bin\Debug\net9.0\PregovorMasiv.deps.json
+C:\Users\STUDENTS-1212-14\Desktop\Дияна Тонева 9А\Увод в Програмирането\BoolAndChar\WorkingList\PregovorMasiv\bin\Debug\net9.0\PregovorMasiv.runtimeconfig.json
+C:\Users\STUDENTS-1212-14\Desktop\Дияна Тонева 9А\Увод в Програмирането\BoolAndChar\WorkingList\PregovorMasiv\bin\Debug\net9.0\PregovorMasiv.dll
+C:\Users\STUDENTS-1212-14\Desktop\Дияна Тонева 9А\Увод в Програмирането\BoolAndChar\WorkingList\PregovorMasiv\bin\Debug\net9.0\PregovorMasiv.pdb
+C:\Users\STUDENTS-1212-14\Desktop\Дияна Тонева 9А\Увод в Програмирането\BoolAndChar\WorkingList\PregovorMasiv\obj\Debug\net9.0\PregovorMasiv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENTS-1212-14\Desktop\Дияна Тонева 9А\Увод в Програмирането\BoolAndChar\WorkingList\PregovorMasiv\obj\Debug\net9.0\PregovorMasiv.AssemblyInfoInputs.cache
+C:\Users\STUDENTS-1212-14\Desktop\Дияна Тонева 9А\Увод в Програмирането\BoolAndChar\WorkingList\PregovorMasiv\obj\Debug\net9.0\PregovorMasiv.AssemblyInfo.cs
+C:\Users\STUDENTS-1212-14\Desktop\Дияна Тонева 9А\Увод в Програмирането\BoolAndChar\WorkingList\PregovorMasiv\obj\Debug\net9.0\PregovorMasiv.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1212-14\Desktop\Дияна Тонева 9А\Увод в Програмирането\BoolAndChar\WorkingList\PregovorMasiv\obj\Debug\net9.0\PregovorMasiv.dll
+C:\Users\STUDENTS-1212-14\Desktop\Дияна Тонева 9А\Увод в Програмирането\BoolAndChar\WorkingList\PregovorMasiv\obj\Debug\net9.0\refint\PregovorMasiv.dll
+C:\Users\STUDENTS-1212-14\Desktop\Дияна Тонева 9А\Увод в Програмирането\BoolAndChar\WorkingList\PregovorMasiv\obj\Debug\net9.0\PregovorMasiv.pdb
+C:\Users\STUDENTS-1212-14\Desktop\Дияна Тонева 9А\Увод в Програмирането\BoolAndChar\WorkingList\PregovorMasiv\obj\Debug\net9.0\PregovorMasiv.genruntimeconfig.cache
+C:\Users\STUDENTS-1212-14\Desktop\Дияна Тонева 9А\Увод в Програмирането\BoolAndChar\WorkingList\PregovorMasiv\obj\Debug\net9.0\ref\PregovorMasiv.dll

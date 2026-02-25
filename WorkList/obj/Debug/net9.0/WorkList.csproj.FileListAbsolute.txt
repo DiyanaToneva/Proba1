@@ -1,0 +1,14 @@
+C:\Users\STUDENTS-1212-14\Desktop\Дияна Тонева 9А\Увод в Програмирането\BoolAndChar\WorkingList\WorkList\bin\Debug\net9.0\WorkList.exe
+C:\Users\STUDENTS-1212-14\Desktop\Дияна Тонева 9А\Увод в Програмирането\BoolAndChar\WorkingList\WorkList\bin\Debug\net9.0\WorkList.deps.json
+C:\Users\STUDENTS-1212-14\Desktop\Дияна Тонева 9А\Увод в Програмирането\BoolAndChar\WorkingList\WorkList\bin\Debug\net9.0\WorkList.runtimeconfig.json
+C:\Users\STUDENTS-1212-14\Desktop\Дияна Тонева 9А\Увод в Програмирането\BoolAndChar\WorkingList\WorkList\bin\Debug\net9.0\WorkList.dll
+C:\Users\STUDENTS-1212-14\Desktop\Дияна Тонева 9А\Увод в Програмирането\BoolAndChar\WorkingList\WorkList\bin\Debug\net9.0\WorkList.pdb
+C:\Users\STUDENTS-1212-14\Desktop\Дияна Тонева 9А\Увод в Програмирането\BoolAndChar\WorkingList\WorkList\obj\Debug\net9.0\WorkList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENTS-1212-14\Desktop\Дияна Тонева 9А\Увод в Програмирането\BoolAndChar\WorkingList\WorkList\obj\Debug\net9.0\WorkList.AssemblyInfoInputs.cache
+C:\Users\STUDENTS-1212-14\Desktop\Дияна Тонева 9А\Увод в Програмирането\BoolAndChar\WorkingList\WorkList\obj\Debug\net9.0\WorkList.AssemblyInfo.cs
+C:\Users\STUDENTS-1212-14\Desktop\Дияна Тонева 9А\Увод в Програмирането\BoolAndChar\WorkingList\WorkList\obj\Debug\net9.0\WorkList.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1212-14\Desktop\Дияна Тонева 9А\Увод в Програмирането\BoolAndChar\WorkingList\WorkList\obj\Debug\net9.0\WorkList.dll
+C:\Users\STUDENTS-1212-14\Desktop\Дияна Тонева 9А\Увод в Програмирането\BoolAndChar\WorkingList\WorkList\obj\Debug\net9.0\refint\WorkList.dll
+C:\Users\STUDENTS-1212-14\Desktop\Дияна Тонева 9А\Увод в Програмирането\BoolAndChar\WorkingList\WorkList\obj\Debug\net9.0\WorkList.pdb
+C:\Users\STUDENTS-1212-14\Desktop\Дияна Тонева 9А\Увод в Програмирането\BoolAndChar\WorkingList\WorkList\obj\Debug\net9.0\WorkList.genruntimeconfig.cache
+C:\Users\STUDENTS-1212-14\Desktop\Дияна Тонева 9А\Увод в Програмирането\BoolAndChar\WorkingList\WorkList\obj\Debug\net9.0\ref\WorkList.dll

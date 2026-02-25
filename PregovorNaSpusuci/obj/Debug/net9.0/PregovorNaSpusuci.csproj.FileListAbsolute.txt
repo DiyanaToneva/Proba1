@@ -1,0 +1,4 @@
+C:\Users\STUDENTS-1212-14\Desktop\Дияна Тонева 9А\Увод в Програмирането\BoolAndChar\WorkingList\PregovorNaSpusuci\obj\Debug\net9.0\PregovorNaSpusuci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENTS-1212-14\Desktop\Дияна Тонева 9А\Увод в Програмирането\BoolAndChar\WorkingList\PregovorNaSpusuci\obj\Debug\net9.0\PregovorNaSpusuci.AssemblyInfoInputs.cache
+C:\Users\STUDENTS-1212-14\Desktop\Дияна Тонева 9А\Увод в Програмирането\BoolAndChar\WorkingList\PregovorNaSpusuci\obj\Debug\net9.0\PregovorNaSpusuci.AssemblyInfo.cs
+C:\Users\STUDENTS-1212-14\Desktop\Дияна Тонева 9А\Увод в Програмирането\BoolAndChar\WorkingList\PregovorNaSpusuci\obj\Debug\net9.0\PregovorNaSpusuci.csproj.CoreCompileInputs.cache
