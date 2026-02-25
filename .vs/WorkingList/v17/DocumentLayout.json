@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\STUDENTS-1212-14\\Desktop\\\u0414\u0438\u044F\u043D\u0430 \u0422\u043E\u043D\u0435\u0432\u0430 9\u0410\\\u0423\u0432\u043E\u0434 \u0432 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u043D\u0435\u0442\u043E\\BoolAndChar\\WorkingList\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{41322D71-3E24-4F0A-A745-2F95DCDF720A}|RezultataOtTestove\\RezultataOtTestove.csproj|c:\\users\\students-1212-14\\desktop\\\u0434\u0438\u044F\u043D\u0430 \u0442\u043E\u043D\u0435\u0432\u0430 9\u0430\\\u0443\u0432\u043E\u0434 \u0432 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u043D\u0435\u0442\u043E\\boolandchar\\workinglist\\rezultataottestove\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41322D71-3E24-4F0A-A745-2F95DCDF720A}|RezultataOtTestove\\RezultataOtTestove.csproj|solutionrelative:rezultataottestove\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A89AF6D1-9A9B-41A2-AAA3-221A6E6C0FB7}|MaxCount\\MaxCount.csproj|c:\\users\\students-1212-14\\desktop\\\u0434\u0438\u044F\u043D\u0430 \u0442\u043E\u043D\u0435\u0432\u0430 9\u0430\\\u0443\u0432\u043E\u0434 \u0432 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u043D\u0435\u0442\u043E\\boolandchar\\workinglist\\maxcount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A89AF6D1-9A9B-41A2-AAA3-221A6E6C0FB7}|MaxCount\\MaxCount.csproj|solutionrelative:maxcount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -48,18 +52,30 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENTS-1212-14\\Desktop\\\u0414\u0438\u044F\u043D\u0430 \u0422\u043E\u043D\u0435\u0432\u0430 9\u0410\\\u0423\u0432\u043E\u0434 \u0432 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u043D\u0435\u0442\u043E\\BoolAndChar\\WorkingList\\RezultataOtTestove\\Program.cs",
+              "RelativeDocumentMoniker": "RezultataOtTestove\\Program.cs",
+              "ToolTip": "C:\\Users\\STUDENTS-1212-14\\Desktop\\\u0414\u0438\u044F\u043D\u0430 \u0422\u043E\u043D\u0435\u0432\u0430 9\u0410\\\u0423\u0432\u043E\u0434 \u0432 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u043D\u0435\u0442\u043E\\BoolAndChar\\WorkingList\\RezultataOtTestove\\Program.cs",
+              "RelativeToolTip": "RezultataOtTestove\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T07:13:19.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\STUDENTS-1212-14\\Desktop\\\u0414\u0438\u044F\u043D\u0430 \u0422\u043E\u043D\u0435\u0432\u0430 9\u0410\\\u0423\u0432\u043E\u0434 \u0432 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u043D\u0435\u0442\u043E\\BoolAndChar\\WorkingList\\MaxCount\\Program.cs",
               "RelativeDocumentMoniker": "MaxCount\\Program.cs",
               "ToolTip": "C:\\Users\\STUDENTS-1212-14\\Desktop\\\u0414\u0438\u044F\u043D\u0430 \u0422\u043E\u043D\u0435\u0432\u0430 9\u0410\\\u0423\u0432\u043E\u0434 \u0432 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u043D\u0435\u0442\u043E\\BoolAndChar\\WorkingList\\MaxCount\\Program.cs",
               "RelativeToolTip": "MaxCount\\Program.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAAABUAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-23T07:25:21.359Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-23T07:25:21.359Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\STUDENTS-1212-14\\Desktop\\\u0414\u0438\u044F\u043D\u0430 \u0422\u043E\u043D\u0435\u0432\u0430 9\u0410\\\u0423\u0432\u043E\u0434 \u0432 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u043D\u0435\u0442\u043E\\BoolAndChar\\WorkingList\\Find\\Program.cs",
               "RelativeDocumentMoniker": "Find\\Program.cs",
@@ -71,7 +87,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\STUDENTS-1212-14\\Desktop\\\u0414\u0438\u044F\u043D\u0430 \u0422\u043E\u043D\u0435\u0432\u0430 9\u0410\\\u0423\u0432\u043E\u0434 \u0432 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u043D\u0435\u0442\u043E\\BoolAndChar\\WorkingList\\PregovorNaSpusuci\\Program.cs",
               "RelativeDocumentMoniker": "PregovorNaSpusuci\\Program.cs",
@@ -83,7 +99,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\STUDENTS-1212-14\\Desktop\\\u0414\u0438\u044F\u043D\u0430 \u0422\u043E\u043D\u0435\u0432\u0430 9\u0410\\\u0423\u0432\u043E\u0434 \u0432 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u043D\u0435\u0442\u043E\\BoolAndChar\\WorkingList\\PregovorMasiv\\Program.cs",
               "RelativeDocumentMoniker": "PregovorMasiv\\Program.cs",
@@ -95,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "WorkList",
               "DocumentMoniker": "C:\\Users\\STUDENTS-1212-14\\Desktop\\\u0414\u0438\u044F\u043D\u0430 \u0422\u043E\u043D\u0435\u0432\u0430 9\u0410\\\u0423\u0432\u043E\u0434 \u0432 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u043D\u0435\u0442\u043E\\BoolAndChar\\WorkingList\\WorkList\\WorkList.csproj",
               "RelativeDocumentMoniker": "WorkList\\WorkList.csproj",
@@ -106,7 +122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\STUDENTS-1212-14\\Desktop\\\u0414\u0438\u044F\u043D\u0430 \u0422\u043E\u043D\u0435\u0432\u0430 9\u0410\\\u0423\u0432\u043E\u0434 \u0432 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u043D\u0435\u0442\u043E\\BoolAndChar\\WorkingList\\WorkList\\Program.cs",
               "RelativeDocumentMoniker": "WorkList\\Program.cs",
@@ -118,7 +134,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\STUDENTS-1212-14\\Desktop\\\u0414\u0438\u044F\u043D\u0430 \u0422\u043E\u043D\u0435\u0432\u0430 9\u0410\\\u0423\u0432\u043E\u0434 \u0432 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u043D\u0435\u0442\u043E\\BoolAndChar\\WorkingList\\InputOutput\\Program.cs",
               "RelativeDocumentMoniker": "InputOutput\\Program.cs",

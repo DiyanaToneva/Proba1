@@ -1,0 +1,15 @@
+C:\Users\STUDENTS-1212-14\Desktop\Дияна Тонева 9А\Увод в Програмирането\BoolAndChar\WorkingList\RezultataOtTestove\bin\Debug\net9.0\RezultataOtTestove.exe
+C:\Users\STUDENTS-1212-14\Desktop\Дияна Тонева 9А\Увод в Програмирането\BoolAndChar\WorkingList\RezultataOtTestove\bin\Debug\net9.0\RezultataOtTestove.deps.json
+C:\Users\STUDENTS-1212-14\Desktop\Дияна Тонева 9А\Увод в Програмирането\BoolAndChar\WorkingList\RezultataOtTestove\bin\Debug\net9.0\RezultataOtTestove.runtimeconfig.json
+C:\Users\STUDENTS-1212-14\Desktop\Дияна Тонева 9А\Увод в Програмирането\BoolAndChar\WorkingList\RezultataOtTestove\bin\Debug\net9.0\RezultataOtTestove.dll
+C:\Users\STUDENTS-1212-14\Desktop\Дияна Тонева 9А\Увод в Програмирането\BoolAndChar\WorkingList\RezultataOtTestove\bin\Debug\net9.0\RezultataOtTestove.pdb
+C:\Users\STUDENTS-1212-14\Desktop\Дияна Тонева 9А\Увод в Програмирането\BoolAndChar\WorkingList\RezultataOtTestove\obj\Debug\net9.0\RezultataOtTestove.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENTS-1212-14\Desktop\Дияна Тонева 9А\Увод в Програмирането\BoolAndChar\WorkingList\RezultataOtTestove\obj\Debug\net9.0\RezultataOtTestove.AssemblyInfoInputs.cache
+C:\Users\STUDENTS-1212-14\Desktop\Дияна Тонева 9А\Увод в Програмирането\BoolAndChar\WorkingList\RezultataOtTestove\obj\Debug\net9.0\RezultataOtTestove.AssemblyInfo.cs
+C:\Users\STUDENTS-1212-14\Desktop\Дияна Тонева 9А\Увод в Програмирането\BoolAndChar\WorkingList\RezultataOtTestove\obj\Debug\net9.0\RezultataOtTestove.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1212-14\Desktop\Дияна Тонева 9А\Увод в Програмирането\BoolAndChar\WorkingList\RezultataOtTestove\obj\Debug\net9.0\RezultataOtTestove.sourcelink.json
+C:\Users\STUDENTS-1212-14\Desktop\Дияна Тонева 9А\Увод в Програмирането\BoolAndChar\WorkingList\RezultataOtTestove\obj\Debug\net9.0\RezultataOtTestove.dll
+C:\Users\STUDENTS-1212-14\Desktop\Дияна Тонева 9А\Увод в Програмирането\BoolAndChar\WorkingList\RezultataOtTestove\obj\Debug\net9.0\refint\RezultataOtTestove.dll
+C:\Users\STUDENTS-1212-14\Desktop\Дияна Тонева 9А\Увод в Програмирането\BoolAndChar\WorkingList\RezultataOtTestove\obj\Debug\net9.0\RezultataOtTestove.pdb
+C:\Users\STUDENTS-1212-14\Desktop\Дияна Тонева 9А\Увод в Програмирането\BoolAndChar\WorkingList\RezultataOtTestove\obj\Debug\net9.0\RezultataOtTestove.genruntimeconfig.cache
+C:\Users\STUDENTS-1212-14\Desktop\Дияна Тонева 9А\Увод в Програмирането\BoolAndChar\WorkingList\RezultataOtTestove\obj\Debug\net9.0\ref\RezultataOtTestove.dll

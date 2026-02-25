@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find", "Find\Find.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxCount", "MaxCount\MaxCount.csproj", "{A89AF6D1-9A9B-41A2-AAA3-221A6E6C0FB7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RezultataOtTestove", "RezultataOtTestove\RezultataOtTestove.csproj", "{41322D71-3E24-4F0A-A745-2F95DCDF720A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{A89AF6D1-9A9B-41A2-AAA3-221A6E6C0FB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A89AF6D1-9A9B-41A2-AAA3-221A6E6C0FB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A89AF6D1-9A9B-41A2-AAA3-221A6E6C0FB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41322D71-3E24-4F0A-A745-2F95DCDF720A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41322D71-3E24-4F0A-A745-2F95DCDF720A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41322D71-3E24-4F0A-A745-2F95DCDF720A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41322D71-3E24-4F0A-A745-2F95DCDF720A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

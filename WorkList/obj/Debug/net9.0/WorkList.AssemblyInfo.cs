@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WorkList")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a81770f69cb92a1acb904b764c7269ebb255d3e2")]
 [assembly: System.Reflection.AssemblyProductAttribute("WorkList")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WorkList")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
